@@ -41,5 +41,6 @@ GameDevelopment, C#, Unity Engine,Game Programming.
 
 ## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/soham-ovhal-406187142_androidgamedevelopment-unity2d-codereview-activity-7120485425361657856-tYdq?utm_source=share&utm_medium=member_desktop)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/soham-ovhal-pccoe_androidgamedevelopment-unity2d-codereview-activity-7120485425361657856-tPUq?utm_source=share&utm_medium=member_desktop)
+
 
